@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">Woof</string>
+
+    <string name="dog_name_1">Koda</string>
+    <string name="dog_name_2">Lola</string>
+
+    <string name="dog_description_1">Loves playing in the snow</string>
+    <string name="dog_description_2">Enjoys sleeping all day</string>
+
+    <string name="dog_name_3">Bella</string>
+    <string name="dog_name_4">Faye</string>
+
+    <string name="dog_description_3">Eat</string>
+    <string name="dog_description_4">Sleep</string>
+
+    <string name="dog_name_5">Frankie</string>
+    <string name="dog_name_6">Leroy</string>
+
+    <string name="dog_description_5">Play</string>
+    <string name="dog_description_6">Walk</string>
+
+    <string name="dog_name_7">Moana</string>
+    <string name="dog_name_8">Nox</string>
+
+    <string name="dog_description_7">Play with me</string>
+    <string name="dog_description_8">Walk with me</string>
+
+
+    <string name="years_old">%d years old</string>
+    <string name="about">About</string>
+
+</resources>
